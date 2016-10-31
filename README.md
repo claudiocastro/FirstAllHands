@@ -9,17 +9,16 @@ Date: 5 de Noviembre 2016
 
 10:30 - 11:00 : Presentacion miembros del equipo
 
-11:00 - 12:00 : Que es DevOps? | CCastro
+11:00 - 11:30 : Que es DevOps? | CCastro
 
-12:00 - 12:30 : Version control: GIT | PHernandez
+11:30 - 12:30 : Agile / Scrum / Lean | PHernandez / CCastro / FSoto
 
-12:30 - 13:30 : Configuration Management: Chef | CCastro
+12:30 - 13:00 : Continious Integration | JFCisternas
 
-13:30 - 16:00 : Almuerzo
+13:00 - 15:30 : Almuerzo
 
-16:00 - 17:00 : Continious integration: Jenkins | JFCisternas?
+15:30 - 16:00 : Auditorias IT | FSoto
 
-17:00 - 18:00 : Automation: JSHint, ZAP/Arachni, BDD-Security/Gauntlt | FSoto / ??
+16:00 - 17:00 : HIS | PHernandez
 
-18:00 - 18:30 : Monitoring: Ossim | FSoto
-
+17:00 - 18:00 : Working session | Todos
